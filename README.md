@@ -8,7 +8,10 @@
  - 作业链接[S](https://github.com/wangziyan0087/computationalphysics_N2013301510087/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 
 ### 第四次作业
- - [see](https://github.com/wangziyan0087/computationalphysics_N2013301510087/blob/master/homework/4th/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+ - 第一章的第二题[see](https://github.com/wangziyan0087/computationalphysics_N2013301510087/blob/master/homework/4th/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+
+### 第五次作业
+ - 第一章的第五题[链接](https://github.com/wangziyan0087/computationalphysics_N2013301510087/blob/master/homework/5th/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 
 ## Good night.
 

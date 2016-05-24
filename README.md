@@ -16,6 +16,9 @@
 ### 第六次作业
  - 精确打击。[代码](https://github.com/wangziyan0087/computationalphysics_N2013301510087/blob/master/homework/6th/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 
+### 第七次作业
+ - 棒球的运动。[报告](https://github.com/wangziyan0087/computationalphysics_N2013301510087/blob/master/homework/7th/%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+
 ## Good night.
 
 ### My name is wangziyan. I am a girl. 

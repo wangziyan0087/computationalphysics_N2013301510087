@@ -22,8 +22,11 @@
 ### 第八次作业
  - 摆。[报告](https://www.zybuluo.com/2013301510087/note/408004)
 
-###第九次作业
+### 第九次作业
  - 非简谐摆。[报告](https://www.zybuluo.com/2013301510087/note/408010)
+
+### 第十次作业
+ - 洛伦兹模型。[报告](https://www.zybuluo.com/2013301510087/note/408035)
 
 ## Good night.
 
